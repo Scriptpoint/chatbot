@@ -1,0 +1,30 @@
+{"intents": [
+  {"tag":"greetings",
+    "patterns": ["Hi", "Hello","Hey","Good Day"],
+    "responses": ["Hi there, It's me Nora","What's up Buddy, Nora here","Nora here, how can i help you"]
+  },
+  {"tag":"thanks",
+    "patterns": ["Thank you", "Thank you so much","Problem solved","All right"],
+    "responses": ["Thank you for your patience","Thank you for your patience, feel free to contact at any given moment"]
+  },
+  {"tag":"CodeSpeedy_Services",
+    "patterns": ["What services do you offer", "What is code speedy"],
+    "responses": ["Hi there, I am glad you asked. CodeSpeedy is a Place Where You can find Solutions In Coding And Programming For PHP, WordPress, HTML, CSS, JavaScript, Python, C++ and much more.You can also hire us for your software development, mobile app development and web development project. We also provide services related to artificial intelligence.For more information be sure to check our popular blogs at CoseSpeedy homepage"]
+  },
+  {"tag":"Products",
+    "patterns": ["What are your products","tell me about your products","what are you selling", "I would like to buy something"],
+    "responses": ["Hi there, to find out about our products got to this link and check out everything at our discreton.Link : https://www.codespeedy.com/products/"]
+  },
+  {"tag":"goodbye",
+    "patterns": ["Goodbye", "see ya","bye"],
+    "responses": ["Have a nice day buddy. Hope i was helpful"]
+  },
+  {"tag":"Projects",
+    "patterns": ["Show me your projects", "I Need Help with projects"],
+    "responses": ["Hi there, https://www.codespeedy.com/blog/ this link is for our project blog page and https://www.codespeedy.com/products this link is of our product page if you ever want to lease off anything. Happy browsing, Nora out. "]
+  },
+  {"tag":"hours",
+    "patterns": ["when are you open","How long are you open"],
+    "responses": ["For you, 24/7"]
+  }
+]}
